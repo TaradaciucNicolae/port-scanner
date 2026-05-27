@@ -103,3 +103,4 @@ if __name__ == '__main__':
 
     counter = scan_each_port(target_ip)
     print(f"{counter} tcp ports are open!")
+
